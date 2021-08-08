@@ -1,0 +1,13 @@
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\bin\Debug\netcoreapp3.1\process_monitor.exe
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\bin\Debug\netcoreapp3.1\process_monitor.deps.json
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\bin\Debug\netcoreapp3.1\process_monitor.runtimeconfig.json
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\bin\Debug\netcoreapp3.1\process_monitor.runtimeconfig.dev.json
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\bin\Debug\netcoreapp3.1\process_monitor.dll
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\bin\Debug\netcoreapp3.1\process_monitor.pdb
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\obj\Debug\netcoreapp3.1\process_monitor.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\obj\Debug\netcoreapp3.1\process_monitor.AssemblyInfoInputs.cache
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\obj\Debug\netcoreapp3.1\process_monitor.AssemblyInfo.cs
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\obj\Debug\netcoreapp3.1\process_monitor.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\obj\Debug\netcoreapp3.1\process_monitor.dll
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\obj\Debug\netcoreapp3.1\process_monitor.pdb
+C:\Users\Maxim\source\repos\process_monitor\process_monitor\obj\Debug\netcoreapp3.1\process_monitor.genruntimeconfig.cache
